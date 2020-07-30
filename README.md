@@ -2,9 +2,9 @@
 > Rov didático para o ensino básico
 
 ## Índice ##
-* [Introdução](introdução)
-* [Lista das pastas](lista-das-pastas)
-* [Status](status)
+* [Introdução](#introdução)
+* [Lista das pastas](#lista-das-pastas)
+* [Status](#status)
 
 #### Introdução ####
 
