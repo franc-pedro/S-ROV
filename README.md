@@ -1,6 +1,6 @@
 # S-ROV #
-<br>
->Rov didático para o ensino básico
+
+> Rov didático para o ensino básico 
 
 ![logo](img/logo.jpg)
 
