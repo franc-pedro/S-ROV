@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="40.8mm" height="100.8mm" viewBox="0 0 40.8 100.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Body" transform="translate(36.974765,97.361824) scale(1,-1)">
+<path id="Body_f0000"  d="M -36.5747653998 96.9618242938 L -36.5747653998 96.9618242938 L 3.4252346002 96.9618242938 L 3.4252346002 96.9618242938 L -36.5747653998 96.9618242938 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Body_f0001"  d="M -36.5747653998 86.9618242938 L -36.5747653998 86.9618242938 L -36.5747653998 96.9618242938 L -36.5747653998 96.9618242938 L -36.5747653998 86.9618242938 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Body_f0002"  d="M 3.4252346002 96.9618242938 L 3.4252346002 96.9618242938 L 3.4252346002 -3.03817570617 L 3.4252346002 -3.03817570617 L 3.4252346002 96.9618242938 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<circle cx="-7.0" cy="6.0" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-7.0" cy="6.0" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Body_f0005"  d="M -13.661886925 76.9618242938 L -13.661886925 76.9618242938 L -36.5747653998 86.9618242938 L -36.5747653998 86.9618242938 L -13.661886925 76.9618242938 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Body_f0006"  d="M 3.4252346002 -3.03817570617 L 3.4252346002 -3.03817570617 L -36.5747653998 -3.03817570617 L -36.5747653998 -3.03817570617 L 3.4252346002 -3.03817570617 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Body_f0007"  d="M -13.661886925 16.9618242938 L -13.661886925 16.9618242938 L -13.661886925 76.9618242938 L -13.661886925 76.9618242938 L -13.661886925 16.9618242938 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Body_f0008"  d="M -36.5747653998 -3.03817570617 L -36.5747653998 -3.03817570617 L -36.5747653998 6.96182429383 L -36.5747653998 6.96182429383 L -36.5747653998 -3.03817570617 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Body_f0009"  d="M -36.5747653998 6.96182429383 L -36.5747653998 6.96182429383 L -13.661886925 16.9618242938 L -13.661886925 16.9618242938 L -36.5747653998 6.96182429383 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<circle cx="-7.0" cy="6.0" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-25.0" cy="6.0" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-6.0" cy="29.8447715228" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-25.0" cy="87.0" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-7.0" cy="87.0" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-6.0" cy="66.0" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>Body</title>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="153.0mm" height="23.0mm" viewBox="0 0 153.0 23.0" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Body" transform="translate(1.500000,21.500000) scale(1,-1)">
+<path id="Body_f0000"  d="M 150.0 0.0 L 0.0 0.0 L 0.0 0.0 L 150.0 0.0 L 150.0 0.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Body_f0001"  d="M 150.0 20.0 L 150.0 0.0 L 150.0 0.0 L 150.0 20.0 L 150.0 20.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Body_f0002"  d="M 0.0 20.0 L 150.0 20.0 L 150.0 20.0 L 0.0 20.0 L 0.0 20.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Body_f0003"  d="M 0.0 0.0 L 0.0 20.0 L 0.0 20.0 L 0.0 0.0 L 0.0 0.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Body_f0004"  d="M 105.566239 13.622751484 L 80.565675941 13.622751484 L 80.565675941 13.622751484 L 105.566239 13.622751484 L 105.566239 13.622751484 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Body_f0005"  d="M 105.566239 5.64644681474 L 105.566239 5.64644681474 A 3.98815 3.98815 0 0 1 105.566 13.6228L 105.566239 13.622751484 A 3.98815 3.98815 0 0 0 105.566 5.64645Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Body_f0006"  d="M 80.565675941 5.64644681474 L 80.565675941 5.64644681474 L 105.566239 5.64644681474 L 105.566239 5.64644681474 L 80.565675941 5.64644681474 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Body_f0007"  d="M 80.565675941 13.622751484 L 80.565675941 13.622751484 A 3.98815 3.98815 0 0 1 80.5657 5.64645L 80.565675941 5.64644681474 A 3.98815 3.98815 0 0 0 80.5657 13.6228Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<circle cx="122.57" cy="10.0" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="140.57" cy="10.0" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="24.1" cy="10.0" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="6.1" cy="10.0" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="122.57" cy="10.0" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="122.57" cy="10.0" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>Body</title>
+</g>
+</svg>
