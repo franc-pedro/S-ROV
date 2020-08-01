@@ -1,5 +1,8 @@
 # S-ROV #
-> Rov didático para o ensino básico
+<br>
+>Rov didático para o ensino básico
+
+![logo](img/logo.jpg)
 
 ## Índice ##
 * [Introdução](#introdução)
@@ -7,7 +10,6 @@
 * [Status](#status)
 
 #### Introdução ####
-
 #### Lista das pastas ####
 
 * 🗀 3D
@@ -24,3 +26,4 @@ Ficheiros PDF das atividades a desenvolver
 Ficheiros de imagens das peças do S-ROV
 ```
 #### Status ####
+Em desenvolvimento
