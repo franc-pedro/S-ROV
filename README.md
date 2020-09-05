@@ -14,7 +14,7 @@
 
 * 🗀 3D
 ```
-Ficheiros stl/obj para impressão 3d das peças do S-ROV
+Ficheiros stl para impressão 3d das peças do S-ROV
 ```
 * 🗀 atividades
 ```
