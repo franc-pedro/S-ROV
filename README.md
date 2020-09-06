@@ -1,6 +1,6 @@
 # S-ROV #
 
-> Rov didático para o ensino básico - EBIRP
+> Rov didático para o ensino básico 
 
 ![logo](img/logo.jpg)
 
